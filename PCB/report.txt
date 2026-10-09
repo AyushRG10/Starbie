@@ -1,0 +1,146 @@
+Info: Processing symbol 'J1:Imported Parts:Display_128x64_096_I2C'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'U2:Sensor:Aosong_DHT11_5.5x12.0_P2.54mm'.
+Info: Processing symbol 'U1:Imported Parts:XIAO-ESP32-C6-DIP'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Connected U1 pin 9 to unconnected-(U1-D8-Pad9).
+Connected U1 pin 1 to unconnected-(U1-D0-Pad1).
+Add net unconnected-(U1-D0-Pad1).
+Connected U1 pin 4 to /GP103.
+Updated SW2 sheetname to '/'.
+Connected U1 pin 11 to unconnected-(U1-D10-Pad11).
+Connected U1 pin 6 to /SDA.
+Connected U1 pin 5 to /SCL.
+Connected U1 pin 13 to GND.
+Connected U1 pin 13 to GND.
+Connected U1 pin 10 to unconnected-(U1-D9/BOOT-Pad10).
+Add net unconnected-(U1-D9/BOOT-Pad10).
+Connected U1 pin 11 to unconnected-(U1-D10-Pad11).
+Add net unconnected-(U1-D10-Pad11).
+Connected U1 pin 12 to +3.3V.
+Connected U1 pin 9 to unconnected-(U1-D8-Pad9).
+Added J1 (footprint 'Imported Parts:Display_128x64_096_I2C').
+Add net unconnected-(U1-D8-Pad9).
+Updated SW2 sheetfile to 'PCB.kicad_sch'.
+Connected U1 pin 3 to /GP102.
+Connected SW2 pin 2 to GND.
+Updated U1 sheetfile to 'PCB.kicad_sch'.
+Updated U1 sheetname to '/'.
+Updated U1 symbol association from  to /882174bb-3eab-4141-a5eb-05cadf8584a2.
+Changed U1 value from XIAO-ESP32-C6-DIP to XIAO-ESP32-C3-SMD.
+Changed REF** reference designator to U1.
+Added U1 (footprint 'Imported Parts:XIAO-ESP32-C6-DIP').
+Add net /GP103.
+Updated SW2 unit metadata.
+Connected SW2 pin 1 to /GP103.
+Updated U2 sheetfile to 'PCB.kicad_sch'.
+Connected U1 pin 14 to +5V.
+Updated U1 unit metadata.
+Added U2 (footprint 'Sensor:Aosong_DHT11_5.5x12.0_P2.54mm').
+Changed REF** reference designator to U2.
+Changed U2 value from Aosong_DHT11_5.5x12.0_P2.54mm to DHT11.
+Updated U2 symbol association from  to /81a7d05a-a603-4cf2-bf6b-8dff0cf64902.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Connected U1 pin 3 to /GP102.
+Updated U2 footprint filters to 'Aosong*DHT11*5.5x12.0*P2.54mm*'.
+Connected U2 pin 1 to +3.3V.
+Add net unconnected-(U2-NC-Pad3).
+Connected U2 pin 3 to unconnected-(U2-NC-Pad3).
+Connected U2 pin 4 to GND.
+Connected U2 pin 2 to /DHT11 DATA.
+Updated U2 unit metadata.
+Connected U1 pin 6 to /SDA.
+Connected U1 pin 10 to unconnected-(U1-D9/BOOT-Pad10).
+Connected U1 pin 8 to unconnected-(U1-D7-Pad8).
+Connected U1 pin 2 to /DHT11 DATA.
+Connected U1 pin 2 to /DHT11 DATA.
+Connected U1 pin 7 to unconnected-(U1-D6-Pad7).
+Connected U1 pin 7 to unconnected-(U1-D6-Pad7).
+Add net unconnected-(U1-D6-Pad7).
+Connected U1 pin 8 to unconnected-(U1-D7-Pad8).
+Add net unconnected-(U1-D7-Pad8).
+Connected U1 pin 1 to unconnected-(U1-D0-Pad1).
+Connected U1 pin 12 to +3.3V.
+Connected U1 pin 4 to /GP103.
+Connected U1 pin 5 to /SCL.
+Connected U1 pin 14 to +5V.
+Add net +5V.
+Connected J2 pin 3 to /SCL.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_1x08_P2.54mm_Vertical to Conn_01x08_Pin.
+Updated J2 symbol association from  to /9b36f240-40be-4731-9d31-ed8a27c43a9b.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'PCB.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Updated J1 unit metadata.
+Connected J2 pin 4 to /SDA.
+Add net unconnected-(J2-Pin_7-Pad7).
+Connected J2 pin 7 to unconnected-(J2-Pin_7-Pad7).
+Add net unconnected-(J2-Pin_6-Pad6).
+Connected J2 pin 6 to unconnected-(J2-Pin_6-Pad6).
+Add net unconnected-(J2-Pin_8-Pad8).
+Connected J2 pin 8 to unconnected-(J2-Pin_8-Pad8).
+Updated SW2 symbol association from  to /ea6d58e7-f542-42f4-8589-45402b1c5d49.
+Connected J1 pin 4 to /SDA.
+Add net /SDA.
+Connected J1 pin 1 to GND.
+Add net GND.
+Connected J1 pin 3 to /SCL.
+Add net /SCL.
+Connected J1 pin 2 to +3.3V.
+Add net +3.3V.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Updated J1 sheetfile to 'PCB.kicad_sch'.
+Updated J1 sheetname to '/'.
+Updated J1 fields.
+Updated J1 symbol association from  to /0fde650b-cd47-47ab-8d4e-83a838f4d826.
+Changed J1 value from Display_128x64 to Conn_01x04_Pin.
+Changed Display 128x64 0.96" I2C reference designator to J1.
+Add net unconnected-(J2-Pin_5-Pad5).
+Updated SW2 fields.
+Changed SW2 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Changed REF** reference designator to SW2.
+Added SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Updated SW1 unit metadata.
+Connected SW1 pin 1 to /GP102.
+Add net /GP102.
+Connected SW1 pin 2 to GND.
+Updated SW1 sheetfile to 'PCB.kicad_sch'.
+Updated SW1 sheetname to '/'.
+Updated SW1 fields.
+Updated SW1 symbol association from  to /f868516b-67a3-4661-b637-1e81e98e6b74.
+Changed SW1 value from SW_Cherry_MX_1.00u_PCB to SW_Push.
+Changed REF** reference designator to SW1.
+Added SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Connected R1 pin 1 to +3.3V.
+Connected J2 pin 1 to +3.3V.
+Connected J2 pin 5 to unconnected-(J2-Pin_5-Pad5).
+Connected J2 pin 2 to GND.
+Updated J2 unit metadata.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal to 10k.
+Updated R1 symbol association from  to /f0873704-8b5c-460d-92a7-339880b4bbb5.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'PCB.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /DHT11 DATA.
+Connected R1 pin 2 to /DHT11 DATA.
+Updated R1 unit metadata.
+Error: U1 pad 18 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 19 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 15 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 20 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 16 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 17 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 22 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+Error: U1 pad 21 not found in Imported Parts:XIAO-ESP32-C6-DIP.
+
+
+Info: Total warnings: 0, errors: 8.
