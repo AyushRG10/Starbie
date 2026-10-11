@@ -21,7 +21,7 @@
 | [Keyboard Swithces](https://www.aliexpress.us/item/3256811491680950.html?spm=a2g0o.detail.0.0.3c65l7fKl7fKvR&mp=1&pdp_npi=6%40dis!USD!USD+5.88!USD+1.09!!USD+1.09!!!%40210328df17917584541731889e0e54!12000056225764817!ct!US!8283754543!!1!0!&gatewayAdapt=glo2usa) | Switch stuff | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.us/item/3256811491680950.html?spm=a2g0o.detail.0.0.3c65l7fKl7fKvR&mp=1&pdp_npi=6%40dis!USD!USD+5.88!USD+1.09!!USD+1.09!!!%40210328df17917584541731889e0e54!12000056225764817!ct!US!8283754543!!1!0!&gatewayAdapt=glo2usa) |
 | [DHT11 Sensor](https://www.aliexpress.us/item/3256808602611303.html?spm=a2g0o.productlist.main.1.2ef97345Aob2co&algo_pvid=437e3d36-6dd8-49dd-848b-51017b2e90d1&algo_exp_id=437e3d36-6dd8-49dd-848b-51017b2e90d1-0&pdp_ext_f={%22order%22%3A%2230%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!USD!1.65!1.09!!!11.02!7.29!%402101dedf17917587132704795e0f7f!12000046667765928!sea!US!8283754543!ABX!1!0!n_tag%3A-29910%3Bd%3A441eab65%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=Y8kcJRWnokCQ&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005008788926055|_p_origin_prod%3A) | Enviromental Sensor | 1 | $1.09 | $1.09 | [AliExpress](https://www.aliexpress.us/item/3256808602611303.html?spm=a2g0o.productlist.main.1.2ef97345Aob2co&algo_pvid=437e3d36-6dd8-49dd-848b-51017b2e90d1&algo_exp_id=437e3d36-6dd8-49dd-848b-51017b2e90d1-0&pdp_ext_f={%22order%22%3A%2230%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22}&pdp_npi=6%40dis!USD!1.65!1.09!!!11.02!7.29!%402101dedf17917587132704795e0f7f!12000046667765928!sea!US!8283754543!ABX!1!0!n_tag%3A-29910%3Bd%3A441eab65%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=Y8kcJRWnokCQ&utparam-url=scene%3Asearch|query_from%3A|x_object_id%3A1005008788926055|_p_origin_prod%3A) |
 | **Parts subtotal** | — | — | — | **$23.67** | — |
-| **Tax & shipping** | — | — | — | **$5.67** | — |
-| **Total** | — | — | — | **$29.34** | — |
+| **Tax & shipping** | — | — | — | **$5.47** | — |
+| **Total** | — | — | — | **$29.14** | — |
 
-$0.66 left of the tier's funding.
+$0.86 left of the tier's funding.
